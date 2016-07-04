@@ -1,0 +1,19 @@
+<!DOCTYPE>
+<html>
+	<head>
+		<meta charset = "utf-8">
+		<title>My test page</title>
+	</head>
+	<body>
+		<h2>My HTML Basics page from Mozilla Development Network Tutorial</h2>
+		<img src = "images/coding.jpeg" alt = "Computer screen with some code.">
+		<p> As I learn to code, I'm having trouble with:</p>
+		<ul>
+			<li>designing my pages (I'm just not very creative)</li>
+			<li>CSS (cascading style sheets)</li>
+			<li>APIs (application program interfaces)</li>
+			<li>JavaScript</li>
+		</ul>
+		<p>I know that with practice, more tutorials like this, and patience, I'll definitely improve though.</p>
+	</body>
+</html>

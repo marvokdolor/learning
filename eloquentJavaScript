@@ -1,8 +1,8 @@
 Chapter 2
-var size = 9;
+r size = 9;
 var board = "";
-for (var height = 1; height <= size; height++){
-  for (var width = 1; width <= size; width++){
+for (var height = 0; height < size; height++){
+  for (var width = 0; width < size; width++){
   	if ((height+width)%2 === 0){board += " ";
          } else {
     board += "#";}

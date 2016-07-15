@@ -1,0 +1,12 @@
+Chapter 2
+var size = 9;
+var board = "";
+for (var height = 1; height <= size; height++){
+  for (var width = 1; width <= size; width++){
+  	if ((height+width)%2 === 0){board += " ";
+         } else {
+    board += "#";}
+  }
+  board += "\n"
+}
+console.log(board);

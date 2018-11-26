@@ -1,3 +1,9 @@
+//console.debug()
+//console.info() options for debugging
+//console.warn()
+//console.error()
+//debugger
+
 // Sum all numbers in a range
 function sumAll(arr) {
   let count = 0

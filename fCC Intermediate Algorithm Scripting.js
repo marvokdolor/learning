@@ -217,3 +217,18 @@ function uniteUnique(arr) {
     }
     return newArr;
 }
+
+/*
+Convert the characters &, <, >, " (double quote), and ' (apostrophe), in a string to their corresponding HTML entities.
+Didn't end up using the ReGex for this: let regexEscape = /[&<>""']/g;
+*/
+function convertHTML(str) {
+    let replacements = {
+                        '&': '&amp;',
+                        '<': '&lt;',
+                        '>': '&gt;',
+                        '\"': '&quot;',
+                        '\'': "&apos;"
+                    };
+  return str.split('').map( (entity => replacements[entity] || entity) ).join('')
+}

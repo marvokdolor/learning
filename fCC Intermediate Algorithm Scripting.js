@@ -232,3 +232,96 @@ function convertHTML(str) {
                     };
   return str.split('').map( (entity => replacements[entity] || entity) ).join('')
 }
+
+/*
+Given a positive integer num, return the sum of all odd Fibonacci numbers
+that are less than or equal to num.
+The first two numbers in the Fibonacci sequence are 1 and 1. Every additional
+number in the sequence is the sum of the two previous numbers. The first six
+numbers of the Fibonacci sequence are 1, 1, 2, 3, 5 and 8.
+For example, sumFibs(10) should return 10 because all odd Fibonacci numbers less
+than or equal to 10 are 1, 1, 3, and 5.
+*/
+
+function sumFibs(num) {
+   function fibNums(nth){
+
+        if (nth === 0 || nth === 1){
+            return nth
+        } else {
+            return fibNums(nth - 1) + fibNums(nth - 2)
+        }
+    }
+
+    let count = 0
+    let nth = 0
+    while (fibNums(nth) < num){
+        if (fibNums(nth) % 2 !== 0){
+            count += fibNums(nth)
+        }
+        nth += 1
+    }
+    return count
+}
+/********** The above solution passes all but one fCC test
+************/
+
+/*
+Sum all the prime numbers up to and including the provided number.
+
+A prime number is defined as a number greater than one and having only
+two divisors, one and itself. For example, 2 is a prime number because
+it's only divisible by one and two.
+
+The provided number may not be a prime.
+*/
+
+function sumPrimes(num) {
+
+    function isPrime(num) {
+        for (let i = 2; i < num; i++){
+            if (num % i === 0 && num !== i) {
+            return false
+            }
+        }
+        return true
+    }
+
+    if (num === 1) {
+        return 0
+    }
+    // Ref: https://stackoverflow.com/questions/3895478/does-javascript-have-a-method-like-range-to-generate-a-range-within-the-supp
+    let arr = Array.from({length: num+1}, (v, k) => k).slice(2);
+    return arr.filter( (a => isPrime(a)) )
+            .reduce( (a, b) => a + b, 0)
+}
+
+/* Find the smallest common multiple of the provided parameters that can be
+evenly divided by both, as well as by all sequential numbers in the range
+between these parameters.
+
+The range will be an array of two numbers that will not necessarily be in
+numerical order.
+
+For example, if given 1 and 3, find the smallest common multiple of both 1 and 3
+that is also evenly divisible by all numbers between 1 and 3. The answer here
+would be 6.
+*/
+
+function smallestCommons(arr) {
+    let rangeNums;
+    if (arr[0] < arr[1]) {
+        rangeNums = Array.from({length: (arr[1]+1)-arr[0]}, (v, k) => k + arr[0]);
+    } else {
+        rangeNums = Array.from({length: (arr[0]+1)-arr[1]}, (v, k) => k + arr[1]);
+    }
+
+    let a = Math.abs(rangeNums[0]);
+    for (let i = 1; i < rangeNums.length; i++)
+        { let b = Math.abs(rangeNums[i]), c = a; 
+        while (a && b){ a > b ? a %= b : b %= a; }
+        a = Math.abs(c * rangeNums[i])/(a+b);
+     }
+    return a;
+}
+

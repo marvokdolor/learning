@@ -325,3 +325,91 @@ function smallestCommons(arr) {
     return a;
 }
 
+/* Given the array arr, iterate through and remove each element starting from
+the first element (the 0 index) until the function func returns true when the
+iterated element is passed through it.
+
+**Then return the rest of the array once the condition is satisfied**,
+*otherwise, arr should be returned as an empty array.
+
+return arr.filter( (element => func(element)) ); would work if not for ** above
+*/
+
+function dropElements(arr, func) {
+  // Drop them elements.
+  let newArr = [];
+  for (let i = 0; i < arr.length; i++){
+    if (func(arr[i])) {
+      newArr = arr.slice(i, arr.length)
+      break;
+    }
+  }
+  return newArr
+}
+
+/*
+Flatten a nested array. You must account for varying levels of nesting.
+
+References:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push
+
+Note: I had to name what could  have been an anonymous function, "flatten"
+*/
+
+function steamrollArray(arr) {
+    let flattenedArray = []
+
+    arr.forEach(function flatten(item){
+        if (Array.isArray(item)) {
+            for (let i = 0; i < item.length; i++){
+                flatten(item[i])
+                // console.log("flattendArray:", flattenedArray)
+            }
+        } else {
+            flattenedArray.push(item)
+        }
+    });
+    return flattenedArray
+}
+
+/*
+Return an English translated sentence of the passed binary string.
+
+The binary string will be space separated.
+
+References:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/fromCharCode
+
+*/
+
+function binaryAgent(str) {
+    let arrBin = str.split(' ')
+    // newStr = parseInt(str, 2)
+    return arrBin.map( (element => parseInt(element, 2)) )
+                .map( (element => String.fromCharCode(element)) )
+                .join('')
+}
+
+/*
+Check if the predicate (second argument) is truthy on all elements of a
+collection (first argument).
+
+In other words, you are given an array collection of objects. The predicate pre
+will be an object property and you need to return true if its value is truthy.
+Otherwise, return false.
+
+In JavaScript, truthy values are values that translate to true when evaluated in
+a Boolean context.
+
+Remember, you can access object properties through either dot notation or []
+notation.
+
+*/
+
+function truthCheck(collection, pre) {
+  return collection.length === collection.filter( (element => element[pre]) ).length
+}
+

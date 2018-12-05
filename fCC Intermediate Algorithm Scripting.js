@@ -413,3 +413,58 @@ function truthCheck(collection, pre) {
   return collection.length === collection.filter( (element => element[pre]) ).length
 }
 
+/* Fill in the object constructor with the following methods below:
+
+getFirstName() getLastName() getFullName() setFirstName(first) setLastName(last)
+setFullName(firstAndLast) Run the tests to see the expected output for each
+method.
+
+The methods that take an argument must accept only one argument and it has to be
+a string.
+
+These methods must be the only available means of interacting with the object.
+*/
+
+var Person = function(firstAndLast) {
+  // Complete the method below and implement the others similarly
+  let fullName = firstAndLast
+  this.getFullName = function() {
+    return fullName;
+  };
+  this.getFirstName = function() {
+    return fullName.split(' ')[0];
+  };
+  this.getLastName = function() {
+    return fullName.split(' ')[1];
+  };
+  this.setFullName = function(firstAndLast) {
+    fullName = firstAndLast;
+  };
+  this.setFirstName = function(first) {
+    fullName = first + " " + firstAndLast.split(' ')[1];
+  };
+  this.setLastName = function(last) {
+    fullName = firstAndLast.split(' ')[0] + " " + last
+  };
+  return firstAndLast;
+};
+
+var bob = new Person('Bob Ross');
+
+/*
+Return a new array that transforms the elements' average altitude into their orbital periods (in seconds).
+
+The array will contain objects in the format {name: 'name', avgAlt: avgAlt}.
+
+You can read about orbital periods on Wikipedia.
+
+The values should be rounded to the nearest whole number. The body being orbited is Earth.
+
+The radius of the earth is 6367.4447 kilometers, and the GM value of earth is 398600.4418 km3s-2.
+*/
+function orbitalPeriod(arr) {
+  var GM = 398600.4418;
+  var earthRadius = 6367.4447;
+  return arr.map( (element) => ({"name":element["name"],
+  "orbitalPeriod":Math.round(2 * Math.PI * Math.pow((Math.pow(6367.4447+element['avgAlt'], 3) / 398600.4418), 0.5))}) );
+}

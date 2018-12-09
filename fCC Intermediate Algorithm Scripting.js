@@ -488,6 +488,7 @@ fromCharCode(): https://developer.mozilla.org/en-US/docs/Web/JavaScript/Referenc
 Telephone Number Validator
 Regex test: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/test
 Regex overview: https://eloquentjavascript.net/09_regexp.html
+Regex syntax: https://users.cs.cf.ac.uk/Dave.Marshall/PERL/node79
 
 Cash Register
 Objects: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object

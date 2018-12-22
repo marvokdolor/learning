@@ -117,7 +117,7 @@ _The following entries all refer to [freeCodeCamp's Front End Libraries Challeng
 - Completed React challenges
 
 ### R2D31 - 12/22/18
-
+- Completed [this React tutorial](https://reactjs.org/tutorial/tutorial.html#developer-tools) 
 ### R2D32 - 12/23/18
 
 ### R2D33 - 12/24/18

@@ -57,6 +57,7 @@ _The following entries all refer to [freeCodeCamp's Intermediate Algorithm Scrip
 - Completed Bootstrap Challenges
 - Started and completed Make A Person | Map the Debris
 
+-------------
 _The following entries all refer to [fCC JavaScript Algorithms and Data Structures Projects](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects), unless otherwise noted_.
 
 ### R2D14 - 12/05/18
@@ -77,6 +78,7 @@ _The following entries all refer to [fCC JavaScript Algorithms and Data Structur
 ### R2D18 - 12/09/18
 - Completed Cash Register and earned fCC's [JavaScript Algorithms and Data Structures Certificate](https://www.freecodecamp.org/certification/marvokdolor/javascript-algorithms-and-data-structures)!
 
+-------------
 _The following entries all refer to [freeCodeCamp's Front End Libraries Challenges and Projects](https://learn.freecodecamp.org/), unless otherwise noted_.
 
 ### R2D19 - 12/10/18
@@ -117,8 +119,11 @@ _The following entries all refer to [freeCodeCamp's Front End Libraries Challeng
 - Completed React challenges
 
 ### R2D31 - 12/22/18
-- Completed [this React tutorial](https://reactjs.org/tutorial/tutorial.html#developer-tools) 
+- Completed the React tutorial mentioned [above](https://reactjs.org/tutorial/tutorial.html#developer-tools). 
+- Started Redux challenges
+
 ### R2D32 - 12/23/18
+- Continued Redux challenges
 
 ### R2D33 - 12/24/18
 

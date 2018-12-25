@@ -126,10 +126,10 @@ _The following entries all refer to [freeCodeCamp's Front End Libraries Challeng
 - Continued Redux challenges
 
 ### R2D33 - 12/24/18
-- Continued Redux challenges
+- Completed Redux challenges
 
 ### R2D34 - 12/25/18
-- Completed Redux challenges
+- Started Reach and Redux challenges
 
 ### R2D35 - 12/26/18
 
@@ -160,3 +160,13 @@ _The following entries all refer to [freeCodeCamp's Front End Libraries Challeng
 ### R2D58 - 01/18/19
 ### R2D59 - 01/19/19
 ### R2D60 - 01/20/19
+### R2D61 - 01/21/19
+### R2D62 - 01/22/19
+### R2D63 - 01/23/19
+### R2D64 - 01/24/19
+### R2D65 - 01/25/19
+### R2D66 - 01/26/19
+### R2D67 - 01/27/19
+### R2D68 - 01/28/19
+### R2D69 - 01/29/19
+### R2D70 - 01/30/19

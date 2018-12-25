@@ -126,8 +126,10 @@ _The following entries all refer to [freeCodeCamp's Front End Libraries Challeng
 - Continued Redux challenges
 
 ### R2D33 - 12/24/18
+- Continued Redux challenges
 
 ### R2D34 - 12/25/18
+- Completed Redux challenges
 
 ### R2D35 - 12/26/18
 

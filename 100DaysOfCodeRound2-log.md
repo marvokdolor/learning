@@ -129,10 +129,11 @@ _The following entries all refer to [freeCodeCamp's Front End Libraries Challeng
 - Completed Redux challenges
 
 ### R2D34 - 12/25/18
-- Started Reach and Redux challenges
+- Started React and Redux challenges
+- Started this [React tutorial](https://www.youtube.com/watch?v=DLX62G4lc44)
 
 ### R2D35 - 12/26/18
-
+- Completed part 1 of the React tutorial mentioned above, reinforcing fCC lessons in the process
 ### R2D36 - 12/27/18
 
 ### R2D37 - 12/28/18

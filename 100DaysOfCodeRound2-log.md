@@ -135,6 +135,8 @@ _The following entries all refer to [freeCodeCamp's Front End Libraries Challeng
 ### R2D35 - 12/26/18
 - Completed part 1 of the React tutorial mentioned above, reinforcing fCC lessons in the process
 ### R2D36 - 12/27/18
+- Completed React and Redux challenges
+- Started Front End Libraries Projects
 
 ### R2D37 - 12/28/18
 

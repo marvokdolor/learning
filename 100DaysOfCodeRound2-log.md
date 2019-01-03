@@ -136,23 +136,25 @@ _The following entries all refer to [freeCodeCamp's Front End Libraries Challeng
 - Completed part 1 of the React tutorial mentioned above, reinforcing fCC lessons in the process
 ### R2D36 - 12/27/18
 - Completed React and Redux challenges
-- Started Front End Libraries Projects
+- Started Front End Libraries Projects: Markdown Previewer
 
 ### R2D37 - 12/28/18
-- Worked on Markdown Previewer
+- Completed and deployed [Markdown Previewer](https://marvokdolor.github.io/markdown-previewer-fcc/)
 
 ### R2D38 - 12/29/18
-- Continued working on Markdown Previewer
+- Started working on Drum Machine
+- Reviewed React Challenges
 
 ### R2D39 - 12/30/18
-- Completed and deployed [Markdown Previewer](https://marvokdolor.github.io/markdown-previewer-fcc/)
+- Completed review of React Challenges
+- Reviewed React tutorial mentioned above
 
 ### R2D40 - 12/31/18
 - Worked on Drum Machine
-- Reviewed React tutorial mentioned above
+- Continued reviewing React tutorial
 
 ### R2D41 - 01/01/19
-- Continued working on Drum Machine
+- Revised Markdown Previewer
 - Continued reviewing React tutorial
 
 ### R2D42 - 01/02/19

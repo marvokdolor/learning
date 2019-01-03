@@ -139,12 +139,26 @@ _The following entries all refer to [freeCodeCamp's Front End Libraries Challeng
 - Started Front End Libraries Projects
 
 ### R2D37 - 12/28/18
+- Worked on Markdown Previewer
 
 ### R2D38 - 12/29/18
+- Continued working on Markdown Previewer
+
 ### R2D39 - 12/30/18
+- Completed and deployed [Markdown Previewer](https://marvokdolor.github.io/markdown-previewer-fcc/)
+
 ### R2D40 - 12/31/18
+- Worked on Drum Machine
+- Reviewed React tutorial mentioned above
+
 ### R2D41 - 01/01/19
+- Continued working on Drum Machine
+- Continued reviewing React tutorial
+
 ### R2D42 - 01/02/19
+- Continued reviewing React tutorial - completed ToDo App
+- Worked on Random Quote Generator
+
 ### R2D43 - 01/03/19
 ### R2D44 - 01/04/19
 ### R2D45 - 01/05/19

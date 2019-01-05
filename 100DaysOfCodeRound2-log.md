@@ -162,7 +162,11 @@ _The following entries all refer to [freeCodeCamp's Front End Libraries Challeng
 - Worked on Random Quote Generator
 
 ### R2D43 - 01/03/19
+- Continued reviewing React tutorial - explored calling an API
+
 ### R2D44 - 01/04/19
+- Continued React tutorial - worked on forms
+
 ### R2D45 - 01/05/19
 ### R2D46 - 01/06/19
 ### R2D47 - 01/07/19
@@ -189,3 +193,13 @@ _The following entries all refer to [freeCodeCamp's Front End Libraries Challeng
 ### R2D68 - 01/28/19
 ### R2D69 - 01/29/19
 ### R2D70 - 01/30/19
+### R2D71 - 01/31/19
+### R2D72 - 02/01/19
+### R2D73 - 02/02/19
+### R2D74 - 02/03/19
+### R2D75 - 02/04/19
+### R2D76 - 02/05/19
+### R2D77 - 02/06/19
+### R2D78 - 02/07/19
+### R2D79 - 02/08/19
+### R2D80 - 02/09/19

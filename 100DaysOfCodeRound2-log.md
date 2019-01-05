@@ -165,9 +165,11 @@ _The following entries all refer to [freeCodeCamp's Front End Libraries Challeng
 - Continued reviewing React tutorial - explored calling an API
 
 ### R2D44 - 01/04/19
-- Continued React tutorial - worked on forms
+- Built mini-formik from [this video](https://jaredpalmer.com/formik/docs/overview)
 
 ### R2D45 - 01/05/19
+- Continued React tutorial - worked on forms
+
 ### R2D46 - 01/06/19
 ### R2D47 - 01/07/19
 ### R2D48 - 01/08/19

@@ -171,6 +171,9 @@ _The following entries all refer to [freeCodeCamp's Front End Libraries Challeng
 - Continued React tutorial - worked on forms
 
 ### R2D46 - 01/06/19
+- Continued React tutorial - separated out UI components from business logic
+- Worked on Random Quote Generator
+
 ### R2D47 - 01/07/19
 ### R2D48 - 01/08/19
 ### R2D49 - 01/09/19

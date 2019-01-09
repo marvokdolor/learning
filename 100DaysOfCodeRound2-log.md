@@ -175,7 +175,11 @@ _The following entries all refer to [freeCodeCamp's Front End Libraries Challeng
 - Completed [Random Quote Generator](https://marvokdolor.github.io/random-quote-generator-fcc/)
 
 ### R2D47 - 01/07/19
+- Worked on Drum Machine project
+
 ### R2D48 - 01/08/19
+- Worked on Drum Machine project
+
 ### R2D49 - 01/09/19
 ### R2D50 - 01/10/19
 ### R2D51 - 01/11/19

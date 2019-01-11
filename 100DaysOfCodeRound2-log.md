@@ -181,7 +181,11 @@ _The following entries all refer to [freeCodeCamp's Front End Libraries Challeng
 - Worked on Drum Machine project
 
 ### R2D49 - 01/09/19
+- Worked on Drum Machine project
+
 ### R2D50 - 01/10/19
+- Worked on Drum Machine project
+
 ### R2D51 - 01/11/19
 ### R2D52 - 01/12/19
 ### R2D53 - 01/13/19

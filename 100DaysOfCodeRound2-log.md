@@ -190,7 +190,12 @@ _The following entries all refer to [freeCodeCamp's Front End Libraries Challeng
 - Worked on Drum Machine project
 
 ### R2D52 - 01/12/19
+- Reviewed React documentation to help with making progress on Drum Machine project
+
 ### R2D53 - 01/13/19
+- Continued reviewing React documentation
+- Continued workign on Drum Maching project
+
 ### R2D54 - 01/14/19
 ### R2D55 - 01/15/19
 ### R2D56 - 01/16/19

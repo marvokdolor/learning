@@ -194,12 +194,14 @@ _The following entries all refer to [freeCodeCamp's Front End Libraries Challeng
 
 ### R2D53 - 01/13/19
 - Continued reviewing React documentation
-- Continued working on Drum Maching project
+- Continued working on Drum Machine project
+- Started thinking through logic of Calculator project
 
 ### R2D54 - 01/14/19
-- Continued reviewing React documentation
+- Completed basic functionality of Drum Machine project
 
 ### R2D55 - 01/15/19
+
 ### R2D56 - 01/16/19
 ### R2D57 - 01/17/19
 ### R2D58 - 01/18/19
@@ -225,3 +227,21 @@ _The following entries all refer to [freeCodeCamp's Front End Libraries Challeng
 ### R2D78 - 02/07/19
 ### R2D79 - 02/08/19
 ### R2D80 - 02/09/19
+### R2D81 - 02/10/19
+### R2D82 - 02/11/19
+### R2D83 - 02/12/19
+### R2D84 - 02/13/19
+### R2D85 - 02/14/19
+### R2D86 - 02/15/19
+### R2D87 - 02/16/19
+### R2D88 - 02/17/19
+### R2D89 - 02/18/19
+### R2D90 - 02/19/19
+### R2D91 - 02/20/19
+### R2D92 - 02/21/19
+### R2D93 - 02/22/19
+### R2D94 - 02/23/19
+### R2D95 - 02/24/19
+### R2D96 - 02/25/19
+### R2D97 - 02/26/19
+### R2D98 - 02/27/19

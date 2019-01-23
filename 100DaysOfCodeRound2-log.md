@@ -201,14 +201,29 @@ _The following entries all refer to [freeCodeCamp's Front End Libraries Challeng
 - Completed basic functionality of Drum Machine project
 
 ### R2D55 - 01/15/19
+- Started working on Calculator project
 
 ### R2D56 - 01/16/19
+- Continued working on Calculator project
+
 ### R2D57 - 01/17/19
+- Continued working on Calculator project
+
 ### R2D58 - 01/18/19
+- Continued working on Calculator project
+
 ### R2D59 - 01/19/19
+- Continued working on Calculator project
+
 ### R2D60 - 01/20/19
+- Continued working on Calculator project
+
 ### R2D61 - 01/21/19
+- Continued working on Calculator project
+
 ### R2D62 - 01/22/19
+- Continued working on Calculator project
+
 ### R2D63 - 01/23/19
 ### R2D64 - 01/24/19
 ### R2D65 - 01/25/19
@@ -245,3 +260,5 @@ _The following entries all refer to [freeCodeCamp's Front End Libraries Challeng
 ### R2D96 - 02/25/19
 ### R2D97 - 02/26/19
 ### R2D98 - 02/27/19
+### R2D99 - 02/28/19
+### R2D100 - 03/01/19

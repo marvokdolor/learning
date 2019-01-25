@@ -225,7 +225,11 @@ _The following entries all refer to [freeCodeCamp's Front End Libraries Challeng
 - Continued working on Calculator project
 
 ### R2D63 - 01/23/19
+- Continued working on Calculator project
+
 ### R2D64 - 01/24/19
+- Continued working on Calculator project
+
 ### R2D65 - 01/25/19
 ### R2D66 - 01/26/19
 ### R2D67 - 01/27/19

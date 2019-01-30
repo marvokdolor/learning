@@ -198,7 +198,7 @@ _The following entries all refer to [freeCodeCamp's Front End Libraries Challeng
 - Started thinking through logic of Calculator project
 
 ### R2D54 - 01/14/19
-- Completed basic functionality of Drum Machine project
+- Completed basic functionality of [Drum Machine project](https://marvokdolor.github.io/drum-machine-fcc/)
 
 ### R2D55 - 01/15/19
 - Started working on Calculator project
@@ -234,9 +234,17 @@ _The following entries all refer to [freeCodeCamp's Front End Libraries Challeng
 - Continued working on Calculator project
 
 ### R2D66 - 01/26/19
+- Continued working on Calculator project
+
 ### R2D67 - 01/27/19
+- Continued working on Calculator project
+
 ### R2D68 - 01/28/19
+- Completed [Caclulator project](https://marvokdolor.github.io/calculator-fcc/). Wippee!!
+
 ### R2D69 - 01/29/19
+- Started working on Pomodoro Clock
+
 ### R2D70 - 01/30/19
 ### R2D71 - 01/31/19
 ### R2D72 - 02/01/19

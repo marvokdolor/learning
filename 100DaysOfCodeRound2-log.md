@@ -252,6 +252,9 @@ _The following entries all refer to [freeCodeCamp's Front End Libraries Challeng
 - Continued working on Pomodoro Clock
 
 ### R2D72 - 02/01/19
+- Worked on [bug](https://github.com/marvokdolor/calculator-fcc/issues/1) in Calculator project.
+- Continued working on Pomodoro Clock
+
 ### R2D73 - 02/02/19
 ### R2D74 - 02/03/19
 ### R2D75 - 02/04/19

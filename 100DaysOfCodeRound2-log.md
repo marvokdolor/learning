@@ -256,8 +256,14 @@ _The following entries all refer to [freeCodeCamp's Front End Libraries Challeng
 - Continued working on Pomodoro Clock
 
 ### R2D73 - 02/02/19
+- Continued working on Pomodoro Clock
+
 ### R2D74 - 02/03/19
+- Continued working on Pomodoro Clock
+
 ### R2D75 - 02/04/19
+- Continued working on Pomodoro Clock
+
 ### R2D76 - 02/05/19
 ### R2D77 - 02/06/19
 ### R2D78 - 02/07/19

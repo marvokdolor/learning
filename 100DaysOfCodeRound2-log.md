@@ -280,7 +280,11 @@ _The following entries all refer to [freeCodeCamp's Front End Libraries Challeng
 - Continued working on Pomodoro Clock
 
 ### R2D81 - 02/10/19
+- Continued working on [Pomodoro Clock](https://marvokdolor.github.io/pomodoro-clock-fcc/), published it despite it not passing all of the tests just yet.
+
 ### R2D82 - 02/11/19
+- Worked on Data Visualization challenges
+
 ### R2D83 - 02/12/19
 ### R2D84 - 02/13/19
 ### R2D85 - 02/14/19

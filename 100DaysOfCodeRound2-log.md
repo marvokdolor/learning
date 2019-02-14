@@ -286,7 +286,11 @@ _The following entries all refer to [freeCodeCamp's Front End Libraries Challeng
 - Worked on Data Visualization challenges
 
 ### R2D83 - 02/12/19
+- Worked on Data Visualization challenges
+
 ### R2D84 - 02/13/19
+- Worked on Data Visualization challenges
+
 ### R2D85 - 02/14/19
 ### R2D86 - 02/15/19
 ### R2D87 - 02/16/19

@@ -292,6 +292,9 @@ _The following entries all refer to [freeCodeCamp's Front End Libraries Challeng
 - Worked on Data Visualization challenges
 
 ### R2D85 - 02/14/19
+- Started working on my first Data Visualization Project: [Visualize Data with a Bar Chart](https://learn.freecodecamp.org/data-visualization/data-visualization-projects/visualize-data-with-a-bar-chart)
+- Also started a [Data Visualization and d3.js](https://classroom.udacity.com/courses/ud507) Udacity course to round out my d3 knowledge
+
 ### R2D86 - 02/15/19
 ### R2D87 - 02/16/19
 ### R2D88 - 02/17/19

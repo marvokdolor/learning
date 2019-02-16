@@ -296,6 +296,9 @@ _The following entries all refer to [freeCodeCamp's Front End Libraries Challeng
 - Also started a [Data Visualization and d3.js](https://classroom.udacity.com/courses/ud507) Udacity course to round out my d3 knowledge
 
 ### R2D86 - 02/15/19
+- Continued d3 Udacity course
+- Worked on Bar Chart project
+
 ### R2D87 - 02/16/19
 ### R2D88 - 02/17/19
 ### R2D89 - 02/18/19

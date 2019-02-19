@@ -300,8 +300,14 @@ _The following entries all refer to [freeCodeCamp's Front End Libraries Challeng
 - Worked on Bar Chart project
 
 ### R2D87 - 02/16/19
+- Worked on Bar Chart project
+
 ### R2D88 - 02/17/19
+- Worked on Bar Chart project
+
 ### R2D89 - 02/18/19
+- Worked on Bar Chart project
+
 ### R2D90 - 02/19/19
 ### R2D91 - 02/20/19
 ### R2D92 - 02/21/19

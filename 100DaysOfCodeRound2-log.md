@@ -309,6 +309,8 @@ _The following entries all refer to [freeCodeCamp's Front End Libraries Challeng
 - Worked on Bar Chart project
 
 ### R2D90 - 02/19/19
+- D3 tutorials
+
 ### R2D91 - 02/20/19
 ### R2D92 - 02/21/19
 ### R2D93 - 02/22/19

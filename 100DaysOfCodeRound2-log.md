@@ -312,10 +312,13 @@ _The following entries all refer to [freeCodeCamp's Front End Libraries Challeng
 - D3 tutorials including Udacity class mentioned above
 
 ### R2D91 - 02/20/19
-- DD3 tutorials including Udacity class mentioned above
+- D3 tutorials including Udacity class mentioned above
 
 ### R2D92 - 02/21/19
+- Udacity class mentioned above
 ### R2D93 - 02/22/19
+- Udacity class mentioned above
+
 ### R2D94 - 02/23/19
 ### R2D95 - 02/24/19
 ### R2D96 - 02/25/19

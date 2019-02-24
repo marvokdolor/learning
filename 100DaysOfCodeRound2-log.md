@@ -325,8 +325,13 @@ _The following entries all refer to [fCC Data Visualization with D3 Challenges a
 
 ### R2D94 - 02/23/19
 - Worked on Bar Chart project (got bars rendering to the screen!)
+- Udacity class mentioned above
+- Started the [Unix Workbench](https://www.coursera.org/learn/unix/) Coursera course.
 
 ### R2D95 - 02/24/19
+- Udacity class mentioned above
+- Continued the Unix Workbench.
+
 ### R2D96 - 02/25/19
 ### R2D97 - 02/26/19
 ### R2D98 - 02/27/19

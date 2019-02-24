@@ -273,8 +273,11 @@ _The following entries all refer to [freeCodeCamp's Front End Libraries Challeng
 ### R2D78 - 02/07/19
 - Continued working on Pomodoro Clock
 
+-------------
+_The following entries all refer to [fCC Data Visualization with D3 Challenges and Projects](https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3), unless otherwise noted_.
+
 ### R2D79 - 02/08/19
-- Started [Data Visualization with D3 Challenges](https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3) to take a break from the Pomodoro Clock
+- Started Data Visualization with D3 Challenges, to take a break from the Pomodoro Clock
 
 ### R2D80 - 02/09/19
 - Continued working on Pomodoro Clock

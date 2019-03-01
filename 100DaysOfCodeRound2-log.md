@@ -342,4 +342,6 @@ _The following entries all refer to [fCC Data Visualization with D3 Challenges a
 - Continued Udacity class
 
 ### R2D99 - 02/28/19
+- Continued the Unix Workbenc
+
 ### R2D100 - 03/01/19

@@ -345,3 +345,4 @@ _The following entries all refer to [fCC Data Visualization with D3 Challenges a
 - Continued the Unix Workbenc
 
 ### R2D100 - 03/01/19
+- Started the book - Interactive Data Visualization for the Web - _An introduction to designing with D3_.

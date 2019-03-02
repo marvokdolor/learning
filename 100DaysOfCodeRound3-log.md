@@ -6,6 +6,8 @@ The log of my third consecutive #100DaysOfCode challenge. Started on March 2, 20
 ## Log
 
 ### R3D1 - 03/02/2019
+- Completed Ch3 of Interactive Data Visualization for the Web 2ed. (D3 book).
+
 ### R3D2 - 03/03/2019
 ### R3D3 - 03/04/2019
 ### R3D4 - 03/05/2019

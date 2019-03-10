@@ -27,6 +27,8 @@ The log of my third consecutive #100DaysOfCode challenge. Started on March 2, 20
 - Continued work on the Coursera Unix Workbench course
 
 ### R3D8 - 03/09/2019
+- Continued Ch 9 of D3 book
+
 ### R3D9 - 03/10/2019
 ### R3D10 - 03/11/2019
 ### R3D11 - 03/12/2019

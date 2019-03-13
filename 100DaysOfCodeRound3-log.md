@@ -36,6 +36,8 @@ The log of my third consecutive #100DaysOfCode challenge. Started on March 2, 20
 - Continued Ch 9 of D3 book
 
 ### R3D11 - 03/12/2019
+- Continued Ch 9 of D3 book
+
 ### R3D12 - 03/13/2019
 ### R3D13 - 03/14/2019
 ### R3D14 - 03/15/2019

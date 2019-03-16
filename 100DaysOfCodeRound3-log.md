@@ -45,6 +45,8 @@ The log of my third consecutive #100DaysOfCode challenge. Started on March 2, 20
 -Started Ch 10, *Interactivity* of D3 book
 
 ### R3D14 - 03/15/2019
+- Worked on [Visualize Data with a Bar Chart](https://learn.freecodecamp.org/data-visualization/data-visualization-projects/visualize-data-with-a-bar-chart) freeCodeCamp Data Visualization project
+
 ### R3D15 - 03/16/2019
 ### R3D16 - 03/17/2019
 ### R3D17 - 03/18/2019

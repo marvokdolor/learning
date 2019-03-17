@@ -51,6 +51,9 @@ The log of my third consecutive #100DaysOfCode challenge. Started on March 2, 20
 - Worked on the Coursera Unix Workbench course
 
 ### R3D16 - 03/17/2019
+- Worjed on Visualize Data with a Bar Chart project
+- Continued Ch 10 of D3 book
+
 ### R3D17 - 03/18/2019
 ### R3D18 - 03/19/2019
 ### R3D19 - 03/20/2019

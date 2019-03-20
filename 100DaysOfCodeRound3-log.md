@@ -55,7 +55,11 @@ The log of my third consecutive #100DaysOfCode challenge. Started on March 2, 20
 - Completed Ch 10 of D3 book
 
 ### R3D17 - 03/18/2019
+- Read Chs 11 and 12 of D3 book
+
 ### R3D18 - 03/19/2019
+- Continued work on the Coursera Unix Workbench course
+
 ### R3D19 - 03/20/2019
 ### R3D20 - 03/21/2019
 ### R3D21 - 03/22/2019

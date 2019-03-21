@@ -61,6 +61,8 @@ The log of my third consecutive #100DaysOfCode challenge. Started on March 2, 20
 - Continued work on the Coursera Unix Workbench course
 
 ### R3D19 - 03/20/2019
+- Started an [online D3 course](https://curran.github.io/dataviz-course-2018/); based on really liking the instructor's [teaching style](https://www.youtube.com/watch?v=iuA-gmvJ5n0&list=PL9yYRbwpkykvjkfuRslECO9c1qTq3GgUb).
+
 ### R3D20 - 03/21/2019
 ### R3D21 - 03/22/2019
 ### R3D22 - 03/23/2019

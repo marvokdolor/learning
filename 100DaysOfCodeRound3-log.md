@@ -51,7 +51,7 @@ The log of my third consecutive #100DaysOfCode challenge. Started on March 2, 20
 - Worked on the Coursera Unix Workbench course
 
 ### R3D16 - 03/17/2019
-- Worjed on Visualize Data with a Bar Chart project
+- Worked on Visualize Data with a Bar Chart project
 - Completed Ch 10 of D3 book
 
 ### R3D17 - 03/18/2019
@@ -64,8 +64,15 @@ The log of my third consecutive #100DaysOfCode challenge. Started on March 2, 20
 - Started an [online D3 course](https://curran.github.io/dataviz-course-2018/); based on really liking the instructor's [teaching style](https://www.youtube.com/watch?v=iuA-gmvJ5n0&list=PL9yYRbwpkykvjkfuRslECO9c1qTq3GgUb).
 
 ### R3D20 - 03/21/2019
+- Continued online D3 course mentioned above
+- Worked on Visualize Data with a Bar Chart project
+
 ### R3D21 - 03/22/2019
+- Worked on Visualize Data with a Bar Chart project
+
 ### R3D22 - 03/23/2019
+- Worked on Visualize Data with a Bar Chart project
+
 ### R3D23 - 03/24/2019
 ### R3D24 - 03/25/2019
 ### R3D25 - 03/26/2019

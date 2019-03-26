@@ -78,7 +78,8 @@ The log of my third consecutive #100DaysOfCode challenge. Started on March 2, 20
 - Started [Visualize Data with Scatterplot Graph](https://learn.freecodecamp.org/data-visualization/data-visualization-projects/visualize-data-with-a-scatterplot-graph) freeCodeCamp Data Visualization project
 
 ### R3D24 - 03/25/2019
-- Took a brain break today and watched a [few](https://www.youtube.com/watch?v=GzH7qUVIkE8&list=PL9yYRbwpkykvjkfuRslECO9c1qTq3GgUb&index=6) [D3](https://www.youtube.com/watch?v=Awnz8x8kcE8) videos.
+- Watched a [few](https://www.youtube.com/watch?v=GzH7qUVIkE8&list=PL9yYRbwpkykvjkfuRslECO9c1qTq3GgUb&index=6) D3 [videos] (https://www.youtube.com/watch?v=Awnz8x8kcE8).
+- Investigated how to express mm:ss in d3.
 
 ### R3D25 - 03/26/2019
 ### R3D26 - 03/27/2019

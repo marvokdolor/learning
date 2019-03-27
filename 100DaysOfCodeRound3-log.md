@@ -79,9 +79,11 @@ The log of my third consecutive #100DaysOfCode challenge. Started on March 2, 20
 
 ### R3D24 - 03/25/2019
 - Watched a [few](https://www.youtube.com/watch?v=GzH7qUVIkE8&list=PL9yYRbwpkykvjkfuRslECO9c1qTq3GgUb&index=6) D3 [videos] (https://www.youtube.com/watch?v=Awnz8x8kcE8).
-- Investigated how to express mm:ss in d3.
+- Investigated how to express MM:SS in d3.
 
 ### R3D25 - 03/26/2019
+- Worked on Visualize Data with Scatterplot Graph
+
 ### R3D26 - 03/27/2019
 ### R3D27 - 03/28/2019
 ### R3D28 - 03/29/2019

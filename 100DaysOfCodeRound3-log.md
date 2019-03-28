@@ -85,6 +85,9 @@ The log of my third consecutive #100DaysOfCode challenge. Started on March 2, 20
 - Worked on Visualize Data with Scatterplot Graph
 
 ### R3D26 - 03/27/2019
+- Watched some Udacity D3 videos
+- Worked on Visualize Data with Scatterplot Graph
+
 ### R3D27 - 03/28/2019
 ### R3D28 - 03/29/2019
 ### R3D29 - 03/30/2019

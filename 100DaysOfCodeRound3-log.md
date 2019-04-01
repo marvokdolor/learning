@@ -82,11 +82,11 @@ The log of my third consecutive #100DaysOfCode challenge. Started on March 2, 20
 - Investigated how to express MM:SS in d3.
 
 ### R3D25 - 03/26/2019
-- Worked on Visualize Data with Scatterplot Graph
+- Worked on Visualize Data with Scatterplot Graph project
 
 ### R3D26 - 03/27/2019
 - Watched some Udacity D3 videos
-- Worked on Visualize Data with Scatterplot Graph
+- Worked on Visualize Data with Scatterplot Graph project
 
 ### R3D27 - 03/28/2019
 - Worked on The Unix Workbench course
@@ -95,7 +95,11 @@ The log of my third consecutive #100DaysOfCode challenge. Started on March 2, 20
 - Worked on The Unix Workbench course
 
 ### R3D29 - 03/30/2019
+- Worked on Visualize Data with Scatterplot Graph project
+
 ### R3D30 - 03/31/2019
+- Worked on Visualize Data with Scatterplot Graph project
+
 ### R3D31 - 04/01/2019
 ### R3D32 - 04/02/2019
 ### R3D33 - 04/03/2019

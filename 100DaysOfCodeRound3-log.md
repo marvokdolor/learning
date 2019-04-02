@@ -74,7 +74,7 @@ The log of my third consecutive #100DaysOfCode challenge. Started on March 2, 20
 - Worked on Visualize Data with a Bar Chart project
 
 ### R3D23 - 03/24/2019
-- Completed Visualize Data with a Bar Chart project
+- Completed Visualize Data with a Bar Chart [project](https://codepen.io/marvokdolor/full/jJdBPo0)
 - Started [Visualize Data with Scatterplot Graph](https://learn.freecodecamp.org/data-visualization/data-visualization-projects/visualize-data-with-a-scatterplot-graph) freeCodeCamp Data Visualization project
 
 ### R3D24 - 03/25/2019
@@ -101,7 +101,7 @@ The log of my third consecutive #100DaysOfCode challenge. Started on March 2, 20
 - Worked on Visualize Data with Scatterplot Graph project
 
 ### R3D31 - 04/01/2019
-- Worked on Visualize Data with Scatterplot Graph project; it's in [great shape](https://codepen.io/marvokdolor/full/KYKmJr) but a couple of the tests won't pass.
+- Completed Visualize Data with Scatterplot Graph [project](https://codepen.io/marvokdolor/full/KYKmJr)
 
 ### R3D32 - 04/02/2019
 ### R3D33 - 04/03/2019

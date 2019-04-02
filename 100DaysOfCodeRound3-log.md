@@ -101,6 +101,8 @@ The log of my third consecutive #100DaysOfCode challenge. Started on March 2, 20
 - Worked on Visualize Data with Scatterplot Graph project
 
 ### R3D31 - 04/01/2019
+- Worked on Visualize Data with Scatterplot Graph project; it's in [great shape](https://codepen.io/marvokdolor/full/KYKmJr) but a couple of the tests won't pass.
+
 ### R3D32 - 04/02/2019
 ### R3D33 - 04/03/2019
 ### R3D34 - 04/04/2019

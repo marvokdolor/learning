@@ -104,9 +104,18 @@ The log of my third consecutive #100DaysOfCode challenge. Started on March 2, 20
 - Completed Visualize Data with Scatterplot Graph [project](https://codepen.io/marvokdolor/full/KYKmJr)
 
 ### R3D32 - 04/02/2019
+- Re-read parts of D3 book
+- Start [Visualize Data with a Heat Map](https://learn.freecodecamp.org/data-visualization/data-visualization-projects/visualize-data-with-a-heat-map) freeCodeCamp project
+
 ### R3D33 - 04/03/2019
+- Re-read parts of D3 book
+
 ### R3D34 - 04/04/2019
+- Re-read parts of D3 book
+
 ### R3D35 - 04/05/2019
+- Re-read parts of D3 book
+
 ### R3D36 - 04/06/2019
 ### R3D37 - 04/07/2019
 ### R3D38 - 04/08/2019

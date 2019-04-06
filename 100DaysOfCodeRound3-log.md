@@ -117,6 +117,9 @@ The log of my third consecutive #100DaysOfCode challenge. Started on March 2, 20
 - Re-read parts of D3 book
 
 ### R3D36 - 04/06/2019
+- Re-read parts of D3 book
+- Worked on Visualize Data with a Heat Map project
+
 ### R3D37 - 04/07/2019
 ### R3D38 - 04/08/2019
 ### R3D39 - 04/09/2019

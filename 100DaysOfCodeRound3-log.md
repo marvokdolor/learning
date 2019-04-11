@@ -130,6 +130,9 @@ The log of my third consecutive #100DaysOfCode challenge. Started on March 2, 20
 - Watched a few D3 videos
 
 ### R3D40 - 04/10/2019
+- Completed [D3 Heat Map](https://codepen.io/marvokdolor/full/Pgmoxe).
+  - _Note: Two tests don't currently pass, but I'm moving on._
+  
 ### R3D41 - 04/11/2019
 ### R3D42 - 04/12/2019
 ### R3D43 - 04/13/2019

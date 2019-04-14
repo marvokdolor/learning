@@ -137,8 +137,14 @@ The log of my third consecutive #100DaysOfCode challenge. Started on March 2, 20
 - Started [Visualize Data with a Choropleth Map](https://learn.freecodecamp.org/data-visualization/data-visualization-projects/visualize-data-with-a-choropleth-map) freeCodeCamp project
 
 ### R3D42 - 04/12/2019
+- Reading Ch 14: Geomapping of D3 book
+
 ### R3D43 - 04/13/2019
+- Reading Ch 14: Geomapping of D3 book
+
 ### R3D44 - 04/14/2019
+- Reading and working through examples Ch 14: Geomapping of D3 book
+
 ### R3D45 - 04/15/2019
 ### R3D46 - 04/16/2019
 ### R3D47 - 04/17/2019

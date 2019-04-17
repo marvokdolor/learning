@@ -146,8 +146,14 @@ The log of my third consecutive #100DaysOfCode challenge. Started on March 2, 20
 - Reading and working through examples Ch 14: Geomapping of D3 book
 
 ### R3D45 - 04/15/2019
+- Worked on Choropleth Map
+
 ### R3D46 - 04/16/2019
+- Worked on Choropleth Map
+
 ### R3D47 - 04/17/2019
+- Worked on Choropleth Map
+
 ### R3D48 - 04/18/2019
 ### R3D49 - 04/19/2019
 ### R3D50 - 04/20/2019

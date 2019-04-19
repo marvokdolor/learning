@@ -155,7 +155,11 @@ The log of my third consecutive #100DaysOfCode challenge. Started on March 2, 20
 - Worked on Choropleth Map
 
 ### R3D48 - 04/18/2019
+- Worked on Choropleth Map
+
 ### R3D49 - 04/19/2019
+- Worked on Choropleth Map
+
 ### R3D50 - 04/20/2019
 ### R3D51 - 04/21/2019
 ### R3D52 - 04/22/2019

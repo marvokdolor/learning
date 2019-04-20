@@ -158,9 +158,11 @@ The log of my third consecutive #100DaysOfCode challenge. Started on March 2, 20
 - Worked on Choropleth Map
 
 ### R3D49 - 04/19/2019
-- Worked on Choropleth Map
+- Completed MVP Choropleth Map with all tests passing!
 
 ### R3D50 - 04/20/2019
+- Started [Visualize Data with a Treemap Diagram](https://learn.freecodecamp.org/data-visualization/data-visualization-projects/visualize-data-with-a-treemap-diagram) freeCodeCamp project
+
 ### R3D51 - 04/21/2019
 ### R3D52 - 04/22/2019
 ### R3D53 - 04/23/2019

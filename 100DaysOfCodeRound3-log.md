@@ -170,6 +170,8 @@ The log of my third consecutive #100DaysOfCode challenge. Started on March 2, 20
 - Completed [Managing Packages with npm](https://learn.freecodecamp.org/apis-and-microservices/managing-packages-with-npm) freeCodeCamp challenges
 
 ### R3D53 - 04/23/2019
+- Worked on [Basic Node and Express](https://learn.freecodecamp.org/apis-and-microservices/basic-node-and-express) freeCodeCamp challenges
+
 ### R3D54 - 04/24/2019
 ### R3D55 - 04/25/2019
 ### R3D56 - 04/26/2019

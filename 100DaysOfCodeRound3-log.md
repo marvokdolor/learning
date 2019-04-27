@@ -176,7 +176,11 @@ The log of my third consecutive #100DaysOfCode challenge. Started on March 2, 20
 - Worked on Basic Node andn Express fCC challenges
 
 ### R3D55 - 04/25/2019
+- Learned a bit about Rust via [A Case for Oxidation](https://www.youtube.com/watch?v=cDFSrVhnZKo)
+
 ### R3D56 - 04/26/2019
+- Learned about node via [Intro to Node.js and npm](https://www.youtube.com/watch?v=RjBxeb9erQk)
+
 ### R3D57 - 04/27/2019
 ### R3D58 - 04/28/2019
 ### R3D59 - 04/29/2019

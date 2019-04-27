@@ -183,8 +183,10 @@ The log of my third consecutive #100DaysOfCode challenge. Started on March 2, 20
 
 ### R3D57 - 04/27/2019
 - Completed Basic Node and Express fCC challenges
+- Watched [Node.js Tutorial for Beginners](https://www.youtube.com/watch?v=TlB_eWDSMt4)
 
 ### R3D58 - 04/28/2019
+
 ### R3D59 - 04/29/2019
 ### R3D60 - 04/30/2019
 ### R3D61 - 05/01/2019

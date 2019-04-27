@@ -173,7 +173,7 @@ The log of my third consecutive #100DaysOfCode challenge. Started on March 2, 20
 - Worked on [Basic Node and Express](https://learn.freecodecamp.org/apis-and-microservices/basic-node-and-express) freeCodeCamp challenges
 
 ### R3D54 - 04/24/2019
-- Worked on Basic Node andn Express fCC challenges
+- Worked on Basic Node and Express fCC challenges
 
 ### R3D55 - 04/25/2019
 - Learned a bit about Rust via [A Case for Oxidation](https://www.youtube.com/watch?v=cDFSrVhnZKo)
@@ -182,6 +182,8 @@ The log of my third consecutive #100DaysOfCode challenge. Started on March 2, 20
 - Learned about node via [Intro to Node.js and npm](https://www.youtube.com/watch?v=RjBxeb9erQk)
 
 ### R3D57 - 04/27/2019
+- Completed Basic Node and Express fCC challenges
+
 ### R3D58 - 04/28/2019
 ### R3D59 - 04/29/2019
 ### R3D60 - 04/30/2019

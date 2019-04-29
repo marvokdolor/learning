@@ -186,6 +186,7 @@ The log of my third consecutive #100DaysOfCode challenge. Started on March 2, 20
 - Watched [Node.js Tutorial for Beginners](https://www.youtube.com/watch?v=TlB_eWDSMt4)
 
 ### R3D58 - 04/28/2019
+- Completed Node.js Tutorial for Beginners
 
 ### R3D59 - 04/29/2019
 ### R3D60 - 04/30/2019
